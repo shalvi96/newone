@@ -1,0 +1,2 @@
+<div class="mini-counts">'."<td>".'
+								  	 			<span title="1 subject">'.$row["sub_name"].'</span></div><div>Subject'."</td>"."<td>".'<div class="view"><div class="mini-counts"><span title="1 vote">'.$row["q_view"].'</span></div><div>view</div></div></div>'."</td>".'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'."<td>".
